@@ -10,4 +10,4 @@
 
 Join the channel to see more videos like this. [Bedimcode]()
 
-![travel-website](/preview.png)
+![travel-website]()
